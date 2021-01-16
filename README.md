@@ -18,6 +18,4 @@ $ npm run build
 Run Production Build: 
 ```bash
 $ npm run prod
-```
-## Features 
-    Play Store Scrapping, and axios examples
+``
