@@ -1,7 +1,6 @@
 import axios from "axios";
 import {User} from "../types/user.t";
 import {Post} from "../types/post.t";
-import { userInfo } from "os";
 
 const gorestGetUserById = (id:Number) => {
     
