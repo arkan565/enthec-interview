@@ -1,12 +1,14 @@
 import cheerio from "cheerio";
 import axios from "axios";
 
+export const findApps = () =>{
+    return new Promise((resolve, reject) => {
 
-
-
-export const findApps = async () =>{
-
+    });
 }
 
-export const findAppsByCattegory = async (category:string) =>{
+export const findAppsByCattegory = (category:string) =>{
+    return new Promise((resolve, reject) => {
+
+    });
 }
